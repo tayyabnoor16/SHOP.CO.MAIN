@@ -3,13 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "lint": "next lint",
-  "format": "prettier --write ."
-},
-
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write ."
+  },
   "dependencies": {
     "@next/bundle-analyzer": "^15.0.4",
     "@radix-ui/react-accordion": "^1.2.0",
@@ -34,7 +33,7 @@
     "react-redux": "^9.1.2",
     "react-simple-star-rating": "^5.1.7",
     "redux-persist": "^6.0.0",
-    "tailwind-merge": "^2.5.2",
+    "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "usehooks-ts": "^3.1.0",
     "vaul": "^1.1.1"
